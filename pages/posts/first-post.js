@@ -1,5 +1,5 @@
 export default function FirstPost () 
 {
-    return <h1> First Post </h1>
+    return <h1> My Name is Youngseo Lee </h1>
 }
     
